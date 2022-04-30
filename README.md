@@ -1,1 +1,1 @@
-# iowa-planeterrella-firmware
+# Iowa planeterrella project
